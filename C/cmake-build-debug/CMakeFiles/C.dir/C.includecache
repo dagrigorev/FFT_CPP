@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dmitry/CLionProjects/SimpleFFT/C/FFT/DFT.c
+DFT.h
+C:/Users/Dmitry/CLionProjects/SimpleFFT/C/FFT/DFT.h
+math.h
+-
+mem.h
+-
+complex.h
+-
+stdio.h
+-
+
+C:/Users/Dmitry/CLionProjects/SimpleFFT/C/FFT/DFT.h
+stddef.h
+-
+
